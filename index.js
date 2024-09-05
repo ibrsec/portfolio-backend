@@ -71,9 +71,7 @@ app.get("/", (req, res) => {
   res.sendFile(path.resolve(__dirname, "./public", "index.html"));
 });
 
-//upload static route
-app.use('/api/uploads',express.static('./uploads'))
-
+ 
 
 
 //not found route for backend
