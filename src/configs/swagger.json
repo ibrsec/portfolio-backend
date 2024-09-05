@@ -13,7 +13,7 @@
       "email": "ibr.seckin@gmail.com"
     }
   },
-  "host": "localhost:10000",
+  "host": "https://portfolio-backend-ochre-phi.vercel.app",
   "basePath": "/",
   "schemes": [
     "https",
