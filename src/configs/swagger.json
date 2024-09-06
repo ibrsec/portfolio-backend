@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "caps_blog_app",
-    "description": "Backend of the Caps Blog App",
+    "title": "portfolio_backend",
+    "description": "Backend of the Portfolio",
     "termsOfService": "https://www.ibrsec.com",
     "license": {
       "name": "ISC"

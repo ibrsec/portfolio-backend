@@ -12,6 +12,7 @@ const queryHandler = require("./src/middlewares/queryHandler");
 const path = require("path");
 const userDataSync = require("./src/helpers/userDataSync");
 const adminUser = require("./src/helpers/adminUser");
+const projectsSync = require("./src/helpers/projectsSync");
 
 /* ------------------------------- Express app ------------------------------ */
 const app = express();
@@ -96,3 +97,6 @@ app.listen(PORT, () => console.log("Server is running on:", PORT));
 
 // const { Token } = require("./src/models/tokenModel");
 // Token.deleteMany().then(()=>console.log('object'))
+
+
+// projectsSync();

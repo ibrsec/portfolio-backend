@@ -1,5 +1,5 @@
 {
-  "name": "caps_blog_app",
+  "name": "portfolio_backend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "ibrsec",
   "license": "ISC",
-  "description": "Backend of the Caps Blog App",
+  "description": "Backend of the Portfolio",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
