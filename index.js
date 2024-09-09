@@ -100,3 +100,12 @@ app.listen(PORT, () => console.log("Server is running on:", PORT));
 
 
 // projectsSync();
+
+//*ok  card larda isim hoversiz gozukecek, toollarda gozuksun orda
+//*ok card lar duzelecek, image toptan baslayacak uste yaslanacak
+
+//* ok yeni navlar ekelenecek
+//*ok dummy storeun resminde bisey var
+//*ok bazi projelerin kategorileri gelmedi neden bak?
+//*ok build almamisim - local den calistirinca hala mock apiye istek atiyor neden?
+//*ok  pagination icin img yerine next image kullandim lazy load oldu

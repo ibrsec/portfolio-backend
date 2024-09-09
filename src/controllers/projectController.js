@@ -40,7 +40,7 @@ module.exports.project = {
 
 
         */
-    const projects = await Project.find();
+    const projects = await Project.find().sort({_id:1});
     res.json(projects
     );
   },
